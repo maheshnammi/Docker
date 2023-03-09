@@ -1,1 +1,1 @@
-From nginx:v1
+From nginx
